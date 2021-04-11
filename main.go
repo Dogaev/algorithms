@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Dogaev/algoritms/singlelinklist"
+	"github.com/Dogaev/algorithms/singlelinklist"
 )
 
 func main() {
