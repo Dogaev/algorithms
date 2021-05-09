@@ -1,4 +1,4 @@
-package singlelinklist
+package singlelinkedlist
 
 import "errors"
 
